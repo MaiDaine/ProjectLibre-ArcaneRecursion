@@ -1,0 +1,532 @@
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/M_Blue.uasset" 0
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/SM_Wall_Thin_Hex.uasset" 1
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Smoke/T_Smoke_Pack.uasset" 2
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Flares/M_Shapes.uasset" 3
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Cloud/T_CloudScape_08_Details.uasset" 4
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Flares/M_Torus_Glow.uasset" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 6
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 9
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MF/MF_CustomPanner.uasset" 10
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Textures/T_Smoke_D.uasset" 11
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Fx/M_DustFlicker_01.uasset" 12
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MICs/M_DustFlicker_01_Inst.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 14
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Textures/T_FlowMV_01.uasset" 15
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Fx/M_FlowAura.uasset" 16
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MICs/M_FlowAura_Inst.uasset" 17
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Fx/M_Flow.uasset" 18
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MICs/M_Flow_Inst.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 21
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Textures/Crystall_01/T_Crystall_01_N.uasset" 22
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Textures/SurfaceNormal/T_SurfNoise_01.uasset" 23
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/M_CrGradientEM.uasset" 24
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Textures/Crystall_02/T_Crystall_02_M.uasset" 25
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MICs/Crystall_02/M_Crystall_02_EM.uasset" 26
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Textures/T_NoisePack_01.uasset" 27
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/M_CrBlackFire.uasset" 28
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MICs/Crystall_02/M_Crystall_02_Flow.uasset" 29
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MF/MF_AmbientLight.uasset" 30
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/M_CrGradientLight_01.uasset" 31
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/MICs/Crystall_02/M_Crystall_02_Stylize.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.uasset" 33
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Energy/Plasma/T_Inky_Smoke.uasset" 34
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Smoke/M_Inky_Smoke_Burst.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 36
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TangentBasis.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 41
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SplineThicken.uasset" 42
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/trails/T_Silky_Smoke_Trail.uasset" 43
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/trails/T_Trail_Mask.uasset" 44
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Spline/M_Slow_Spline_V02.uasset" 45
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/trails/T_BeamMask_Proto_Electric.uasset" 46
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Spline/M_Slow_Spline_V03.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 48
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 49
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 50
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 51
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Crystall_02/SM_Crystall_02.uasset" 52
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Debug/01_-_Default.uasset" 53
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Flares/SM_DeathSpiral.uasset" 54
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Flows/SM_FlowMesh_01f.uasset" 55
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Shapes/SM_Torus_Simple.uasset" 56
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Spline/M_Wisp_SplineThicken.uasset" 57
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Splines/SM_Wispy_SplineThicken.uasset" 58
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_FlowAuraCircle.uasset" 59
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_FlowMV_01.uasset" 60
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_FlowTexture_05.uasset" 61
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_LightingNoise_01.uasset" 62
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_Lighting_Gradient_02.uasset" 63
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_Lighting__01.uasset" 64
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_NoisePack_01.uasset" 65
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/T_Smoke_D.uasset" 66
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Crystall_01/T_Crystall_01_N.uasset" 67
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Crystall_02/T_Crystall_02_A_hp2.uasset" 68
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Crystall_02/T_Crystall_02_M.uasset" 69
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Crystall_02/T_Crystall_02_N.uasset" 70
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/SurfaceNormal/T_SurfNoise_01.uasset" 71
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/UI_PlayerMainBar.uasset" 72
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/ENUM_Buildings.uasset" 73
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/DefaultGameState.uasset" 74
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/DefaultPlayerState.uasset" 75
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/ENUM_ActorTypes.uasset" 76
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/DefaultCamera.uasset" 77
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 78
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 79
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/M_Black.uasset" 80
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/M_Blank.uasset" 81
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/M_Red.uasset" 82
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/M_Grey.uasset" 83
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/SM_Tile_Hex.uasset" 84
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Grid/ENUM_TileStatus.uasset" 85
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Grid/BP_Tile.uasset" 86
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/STRUCT_Position.uasset" 87
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/A_Building.uasset" 88
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/A_Generator.uasset" 89
+"../../../Engine/Content/EngineMaterials/OrientParticle.uasset" 90
+"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset" 91
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Debug/01_-_Default.uasset" 92
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Functions/FadeBasedOnViewAngle.uasset" 93
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Cloud/T_CloudScape_08_Details.uasset" 94
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_Torus_Glow.uasset" 95
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Functions/FX_EmissiveModulate.uasset" 96
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/trails/T_Silky_Smoke_Trail.uasset" 97
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/trails/T_Trail_Mask.uasset" 98
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Spline/M_Slow_Spline_V02.uasset" 99
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Inky_Smoke_Tile.uasset" 100
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/trails/T_BeamMask_Proto_Electric.uasset" 101
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Spline/M_Slow_Spline_V03.uasset" 102
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Gradients/Masks/T_Portal_Gradient_M.uasset" 103
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Soft_Noise.uasset" 104
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Spline/M_Wisp_SplineThicken.uasset" 105
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Flares/SM_DeathSpiral.uasset" 106
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_Torus_Simple.uasset" 107
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Splines/SM_Wispy_SplineThicken.uasset" 108
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Particles/P_ExtractResource.uasset" 109
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/Core.uasset" 110
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/A_Extractor.uasset" 111
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/ENUM_RessourceTypes.uasset" 112
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/A_Ressource.uasset" 113
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Crystall_02/SM_Crystall_02_s.uasset" 114
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/DebugRessource.uasset" 115
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Smoke/T_ImpactDust_01.uasset" 116
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Organic/T_Tiling_Dust.uasset" 117
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Environment/Dust/M_PoisonDust_SubUV.uasset" 118
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 120
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 122
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/FadeBasedOnViewAngle.uasset" 123
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/FX_EmissiveModulate.uasset" 124
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/MF_DitheredRefraction.uasset" 125
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/MF_FX_NearCameraFade.uasset" 126
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Energy/Plasma/T_EnergyPlasma_Tile_H_01.uasset" 127
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Gradients/Masks/T_Portal_Gradient_M.uasset" 128
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Noise/T_Inky_Smoke_Tile.uasset" 129
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Flares/M_Portal_Open_Burst.uasset" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 133
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Masks/T_GradientLaserSoft_M.uasset" 134
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Cloud/T_Cloud_Wisp_Chromatic_Tile.uasset" 135
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Energy/Plasma/T_Sparrow_Poster_Tendrils_v2_Seamless.uasset" 136
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Noise/T_Perlin_Soft_Packed.uasset" 137
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Chroma/M_SphereChromaWisps.uasset" 138
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Chroma/M_SphereChromaWisps_Slow.uasset" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SCurve.uasset" 140
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TriplanarCameraVector.uasset" 142
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/MF_CameraDistanceFade.uasset" 143
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Masks/T_Portal_SpaceMask_M.uasset" 144
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Misc/T_Portal_Space_D.uasset" 145
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Icons/M_Teleporter_Space_Mini.uasset" 146
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Fire/MI_Teleporter_Fire.uasset" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 148
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/mf_ColorExponentialGradient.uasset" 149
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Functions/mf_FastPolarCoordsOneInCenter.uasset" 150
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Flares/T_Flare_02.uasset" 151
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Flares/m_UltraFlare_Master.uasset" 152
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Flares/mi_UltraFlare_MedicStunTendrils.uasset" 153
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Shapes/SM_Impact_Warp.uasset" 154
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Shapes/SM_Portal_Flat.uasset" 155
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Shapes/SM_Totem_SlowDome.uasset" 156
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Particles/P_Spawn.uasset" 157
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/SpawnPoint.uasset" 158
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Grid/STRUCT_Pathfinding_Tile.uasset" 159
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Grid/BP_GridHandler.uasset" 160
+"../../../Engine/Content/BasicShapes/Cube.uasset" 161
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/DefaultCameraPawn.uasset" 162
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/WaveManager.uasset" 163
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/Projectiles/A_Projectile.uasset" 164
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/Projectiles/A_Projectile_Basic.uasset" 165
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/General/T_Recall_Triangle.uasset" 166
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Icons/RecallTriangles.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 168
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Smooth_tile.uasset" 169
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Shockwaves/M_RecallHaze.uasset" 170
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_1MeterSphere_MultiUVs.uasset" 171
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/VectorFields/Cross_103.uasset" 172
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/VectorFields/VF_TakerPortal_Vortex_8_220.uasset" 173
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Particles/SharedGameplay/States/Recall/P_Proto_Recall_Idle.uasset" 174
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/Projectiles/Debug_ProjectileMono.uasset" 175
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/SM_Tile_Wall_Hex.uasset" 176
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/A_Tower.uasset" 177
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Creeps/Enemy.uasset" 178
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/PlayerStats.uasset" 179
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/DebugExtractor.uasset" 180
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/DebugGenerator.uasset" 181
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/MidDebugBuilding.uasset" 182
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Buildings/SmallDebugBuilding.uasset" 183
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Flares/T_Muriel_Corona_D.uasset" 184
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/NormalShapes/T_Sphere_Edge_N.uasset" 185
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Noise/T_Soft_Noise.uasset" 186
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/PlayerBuffs/M_Buff_Glow.uasset" 187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/FixRotateAboutAxisNormals.uasset" 188
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Environment/T_Turret_N.uasset" 189
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Environment/T_Turret_Roughness.uasset" 190
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Masks/T_stardots.uasset" 191
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/PlayerBuffs/T_Buff_Sphere_E.uasset" 192
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Noise/T_noise_flamy_Tile.uasset" 193
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/PlayerBuffs/M_Buff_Sphere_Heart.uasset" 194
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Gradients/Masks/T_Aurora_M.uasset" 195
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/trails/T_Venus_Trail.uasset" 196
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/PlayerBuffs/M_Orbit_Spline_Flame.uasset" 197
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 199
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 200
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 201
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 203
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 206
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Masks/T_Sphere_A.uasset" 207
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Masks/T_SphereRenderHeightMap.uasset" 208
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/NormalShapes/T_Sphere_N.uasset" 209
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/PlayerBuffs/T_BuffFluid.uasset" 210
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Runes/T_Decal_RuneSheet3c.uasset" 211
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Tile/Noise/T_Perlin_Soft_Packed_Gchannel_N.uasset" 212
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Water/T_Water2_N.uasset" 213
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/PlayerBuffs/M_CarriedBuff.uasset" 214
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Runes/T_Decal_RuneSheet1a.uasset" 215
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/PlayerBuffs/M_CarriedBuff_RedBuff.uasset" 216
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 217
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/PlayerBuffs/SM_Buff_Sphere.uasset" 218
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/trails/T_Soft_Energy_Trail.uasset" 219
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Materials/Spline/M_Orbit_Spline_Thicken.uasset" 220
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Shapes/SM_Orbit_Trail.uasset" 221
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Meshes/Shapes/SM_PriceShield_ProjectionPlane.uasset" 222
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Particles/P_Pathfinder.uasset" 223
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Creeps/Debug_Creep.uasset" 224
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/Debug_Tower.uasset" 225
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/map.uasset" 226
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/menu.uasset" 227
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_Menus.uasset" 228
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/ENUM_BuildingsMods.uasset" 229
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/Textures/Crystall_01/T_Crystall_01_M.uasset" 230
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/T_L_Circle.uasset" 231
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Smoke/T_Smoke_Pack.uasset" 232
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/M_L_CircleUI.uasset" 233
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/T_R_Circle.uasset" 234
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/M_R_CircleUI.uasset" 235
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/LowerBar.uasset" 236
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/T_Mask.uasset" 237
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/T_OuterCircle.uasset" 238
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Player/TopBar.uasset" 239
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_MainBar.uasset" 240
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/pause-button.uasset" 241
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/play-button.uasset" 242
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/upgrade.uasset" 243
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_TimeControl.uasset" 244
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/HUD_Player.uasset" 245
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/arrow-cursor.uasset" 246
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Cursor_Default.uasset" 247
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Icones/demolish.uasset" 248
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/UI/Cursor_Destruction.uasset" 249
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_PlayerInventory.uasset" 250
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_ModSlot.uasset" 251
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_TowerInventory.uasset" 252
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/DefaultPlayerController.uasset" 253
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Creeps/A_Enemy.uasset" 254
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Assets/IMG_CrawlerBG.uasset" 255
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Creeps/EnemiesTypes.uasset" 256
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/HUD_Crawler.uasset" 257
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_CastBar.uasset" 258
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_DraggedItem.uasset" 259
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/ModDrag.uasset" 260
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_InventorySlot.uasset" 261
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_NotificationBar.uasset" 262
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/P_HUD_OptionsIG.uasset" 263
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/Player/IGHUD/WidgetDrag.uasset" 264
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Grid/Pathfinder.uasset" 265
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/Projectiles/A_Projectile_Slow.uasset" 266
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Towers/Projectiles/A_Projectile_Splash.uasset" 267
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/CrystallProps/Materials/M_CrBlackFire.uasset" 268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/MetallicShading.uasset" 270
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Lerp_ScratchGrime.uasset" 273
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakBaseColor.uasset" 274
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset" 275
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideBaseColor.uasset" 276
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 277
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 278
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/FX/Textures/Tile/Noise/T_Voronoi_Cells_02.uasset" 279
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/Eyes/MaterialFunctions/MinionBurn.uasset" 280
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/Eyes/MaterialFunctions/MF_Minion_EmissiveFX.uasset" 281
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/FX/Materials/Functions/MF_MinionApperation.uasset" 282
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 283
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialLayers/T_TestML_Mask.uasset" 284
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialLayers/ML__Blank.uasset" 285
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/ParameterCollections/OrionGlobalGameplayCollection.uasset" 286
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/HitFlash.uasset" 287
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime.uasset" 288
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard.uasset" 289
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_BrightnessAdjust.uasset" 290
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.uasset" 291
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01_N.uasset" 292
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.uasset" 293
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_DeathFade.uasset" 294
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.uasset" 295
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialLayers/Rubber/T_Blank_N.uasset" 296
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialLayers/Metal/ML_blue_Metal.uasset" 297
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_OrionRimlight.uasset" 298
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_CharacterEffects.uasset" 299
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/mf_MinionPrimeBuff.uasset" 300
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/T_ThinFilm_Spectrum_COLOR.uasset" 301
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_ThinFilm_Frensel.uasset" 302
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_COL.uasset" 303
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_N.uasset" 304
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_RGBAO.uasset" 305
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Materials/Shared/M_Minion_Dusk_Parent.uasset" 306
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Melee/T_Minion_Dusk_Melee_Core_COL.uasset" 307
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Melee/T_Minion_Dusk_Melee_Core_N.uasset" 308
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Melee/T_Minion_Dusk_Melee_Core_RGBAO.uasset" 309
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Materials/Shared/MI_Minion_Dusk_Core.uasset" 310
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Global/NotForShip/Human_Scans/_Common/SSP_Human_Default.uasset" 311
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Materials/Melee/MI_Minion_Dusk_Melee_Core.uasset" 312
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Core_Skeleton.uasset" 313
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Core_ShadowCyl.uasset" 314
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Core_Dusk.uasset" 315
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_Shapes.uasset" 316
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Functions/MF_FX_NearCameraFade.uasset" 317
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Energy/Plasma/T_Inky_Smoke.uasset" 318
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Smoke/M_Inky_Smoke_Burst.uasset" 319
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_RecallRoundShape.uasset" 320
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_RecallTorsoFlat.uasset" 321
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_Recall_Cylinder.uasset" 322
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_Travel_Tetra.uasset" 323
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Energy/Plasma/T_Plasma_Wisps.uasset" 324
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Energy/Plasma/M_Plasma_v5_Flipbook.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 326
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_Radial_Gradient_DepthFade.uasset" 327
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Coords/T_Turbulence_AdditiveWarp_Linear.uasset" 328
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Energy/Plasma/T_Turbulence_Seamless.uasset" 329
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/FluidPatterns/T_InkSmoky_M2.uasset" 330
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Voronoi_Cells_01.uasset" 331
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Shockwaves/M_RecallCylinder.uasset" 332
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 333
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Functions/MF_CameraDistanceFade.uasset" 334
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Flares/T_ChainFlare.uasset" 335
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Flares/T_Glow_Sphere_Soft.uasset" 336
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Flares/T_GlowStar_12pt.uasset" 337
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_CubeMask_Flare.uasset" 338
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_CubeMask_Flare_Recall_Inst.uasset" 339
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Functions/MF_ParticleRandomSize.uasset" 340
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Masks/T_TankMote.uasset" 341
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Masks/T_TankMoteNoise.uasset" 342
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_Recall_GlowingDots_AnimYMask.uasset" 343
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_Recall_GlowingDotsVert_Inst.uasset" 344
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Energy/Plasma/T_Plasma_Aurora_Seamless.uasset" 345
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Masks/T_NoisyBeam_M.uasset" 346
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_NoiseBubbly_M.uasset" 347
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_PerlinElectric_Packed_Gchannel_N.uasset" 348
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Shockwaves/M_Recall_Wrap.uasset" 349
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Shockwaves/MI_Recall_EdgeFade.uasset" 350
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Energy/Plasma/T_EnergyPlasma_Tile_H_01.uasset" 351
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Masks/T_SoftEdge_M.uasset" 352
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Smoke/T_CloudSmoke_WispInk_Chromashift_Tile.uasset" 353
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Wind_Blur.uasset" 354
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Flares/M_Recall_Torso.uasset" 355
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Shockwaves/MI_Recall_Rings_Inst.uasset" 356
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Materials/Shockwaves/MI_RecallCylinder_Inst.uasset" 357
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_BlobbySphere.uasset" 358
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_Recall_OuterTube.uasset" 359
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Meshes/Shapes/SM_VertColor_Cylinder_Tesselated.uasset" 360
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/VectorFields/Galaxyspin.uasset" 361
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/VectorFields/VF_RandomNoise_01_90.uasset" 362
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/ParagonMinions/FX/Particles/SharedGameplay/States/Recall/P_Recall_Heroes.uasset" 363
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 364
+"../../../Engine/Content/BasicShapes/Cone.uasset" 365
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 366
+"../../../Engine/Content/BasicShapes/Plane.uasset" 367
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 368
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 369
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 370
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 371
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 372
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 373
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 381
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 385
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 386
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 387
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 388
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 389
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 390
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 391
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 392
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 393
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 394
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 395
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 396
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 397
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 398
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 399
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 400
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 401
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 402
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 403
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 404
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 405
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 406
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 407
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 408
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 409
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 410
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 411
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 412
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 413
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 414
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 415
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 416
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 417
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 418
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 419
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 420
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 421
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 422
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 423
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 424
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 425
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 426
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 427
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 428
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 429
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 430
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 431
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 432
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 433
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 434
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 435
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 436
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 437
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 438
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 439
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 440
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 441
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 443
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 444
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 445
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 446
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 447
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 448
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 449
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 450
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 451
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 452
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 453
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 454
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 455
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 456
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 457
+"../../../Engine/Content/EngineResources/Black.uasset" 458
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 459
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 460
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 461
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 462
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 463
+"../../../Engine/Content/EngineSounds/Master.uasset" 464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 466
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 467
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 468
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 469
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 470
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 471
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 472
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 473
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 474
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 475
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 476
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 477
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 478
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 479
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 480
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 481
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 482
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 483
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 485
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 486
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 487
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 488
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 489
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 490
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 491
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 492
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 493
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 494
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 495
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 497
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 498
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 499
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 500
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 501
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 502
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 503
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 504
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 505
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 506
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 507
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 508
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 509
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 510
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 511
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 512
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 513
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 514
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 515
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 516
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 517
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 518
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 519
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 520
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 521
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 522
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 523
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 524
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 525
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Core/Game/DefaultGameMode.uasset" 526
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Maps/DefaultMap_BuiltData.uasset" 527
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 528
+"D:/Prog/Unreal Projects/ArcaneRecursion/Content/Maps/DefaultMap.umap" 529
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 530
+"../../../Engine/Content/Maps/Entry.umap" 531
